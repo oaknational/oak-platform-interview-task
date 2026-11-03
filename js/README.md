@@ -6,7 +6,7 @@ The script is written in JavaScript, and the Node runtime is used to execute it.
 
 ## Pre-requisites
 
-You must have [Node](https://nodejs.org/en/download) and [Git](https://git-scm.com/downloads) on your machine.
+You must have [Node 24](https://nodejs.org/en/download) and [Git](https://git-scm.com/downloads) on your machine.
 
 Check out the code, and install the dependencies with `npm install`.
 
